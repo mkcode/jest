@@ -22,5 +22,6 @@ import * as preRunMessage from './preRunMessage';
 export {default as pluralize} from './pluralize';
 export {default as formatTime} from './formatTime';
 export {default as tryRealpath} from './tryRealpath';
+export {mocked} from './mocked';
 
 export {preRunMessage, specialChars};
